@@ -1,5 +1,5 @@
 # hello-world
-A simple hello world program
+Simply hello world program
 
 Banks now send more than 16 text alerts every second in an indication of how much we now rely on smartphones rather than computers to manage our money.
 
